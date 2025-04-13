@@ -1,2 +1,2 @@
 # python_code
-intro to python rpgramming
+introtruction to python using google colab during my AI internship program with AI For Africa
